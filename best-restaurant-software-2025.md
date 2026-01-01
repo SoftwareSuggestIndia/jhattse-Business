@@ -96,14 +96,6 @@ Contact sales for enterprise/multi-outlet pricing and custom SLAs.
 5. Configure payment gateways and WhatsApp Business API credentials.  
 6. Install POS/KDS on devices and set up printers.
 
-Commands and examples (replace placeholders with real values):
-
-```bash
-# Example: start local dev server (if applicable)
-npm install
-npm run dev
-```
-
 ---
 
 ## Deployment & Installation
@@ -283,7 +275,7 @@ Yes. Jhattse is built for scalability. You can manage and monitor multiple outle
 
 For demos, sales or support:
 - Email: contact@jhattse.com  
-- Website: ![Jhattse Business](https://business.jhattse.com)  
+- Website: [Jhattse Business](https://business.jhattse.com "Best Restaurant Software in India")  
 - Sales: contact@jhattse.com
 
 ---
